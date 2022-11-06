@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+main {
+    background-color: grey;
+    padding: 20px 40px;
+    text-align: center;
+}
+
+.input-sec {
+    background-color: #6943FF;
+    padding: 10px;
+}
+
+h2 {
+    color: #FFFFFF;
+}
+
+#unit-text {
+    background-color: #6943FF;
+    border: 2px solid #B295FF;
+    color: #FFFFFF;
+    padding: 5px 20px;
+    width: 45px;
+    font-weight: 600;
+    font-size: 40px;
+    border-radius: 5px;
+}
+
+#convert-btn {
+    margin-top: 20px;
+    padding: 5px 15px;
+    border-radius: 3px;
+    border: none;
+    margin-bottom:10px;
+}
+
+.display-sec {
+    background-color: #F4F4F4;
+    padding: 10px;
+    color: #5A537B;
+}
+
+.display-box {
+    background-color: #FFFFFF;
+    margin: 8px 4px;
+    padding:  1px 3px;
+}
